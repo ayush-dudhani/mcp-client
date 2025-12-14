@@ -18,6 +18,6 @@ Set required environment variables or add them to `src/main/resources/applicatio
 
 ```bash
 # Example environment variables (customize values)
-MCP_SSE_BASE_URL=http://localhost:8080
-OLLAMA_BASE_URL=http://localhost:11434
-OLLAMA_CHAT_MODEL=llama3.2:1b
+MCP.OPENWEATHER.SSE.SERVER.URL=http://localhost:8080
+OLLAMA.BASE.URL=http://localhost:11434
+OLLAMA.CHAT.MODEL=llama3.2:1b
